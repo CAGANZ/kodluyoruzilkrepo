@@ -6,5 +6,5 @@ bu repo kodluyoruz ödevi için hazırlanmmıştır.
 
 
 
-[Herhangi bir şey sor](http://chatgpt.com/)
+[Herhangi bir şey sor](http://chatgpt.com/)  <-Yetkili biri
 
